@@ -1,0 +1,11 @@
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\bin\Debug\net9.0\BuberDiner.Domain.deps.json
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\bin\Debug\net9.0\BuberDiner.Domain.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\bin\Debug\net9.0\BuberDiner.Domain.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.AssemblyInfoInputs.cache
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.AssemblyInfo.cs
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.csproj.CoreCompileInputs.cache
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\refint\BuberDiner.Domain.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\ref\BuberDiner.Domain.dll

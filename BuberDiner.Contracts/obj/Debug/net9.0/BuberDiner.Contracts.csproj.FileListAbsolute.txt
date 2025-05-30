@@ -1,0 +1,11 @@
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\bin\Debug\net9.0\BuberDiner.Contracts.deps.json
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\bin\Debug\net9.0\BuberDiner.Contracts.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\bin\Debug\net9.0\BuberDiner.Contracts.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.AssemblyInfoInputs.cache
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.AssemblyInfo.cs
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.csproj.CoreCompileInputs.cache
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\refint\BuberDiner.Contracts.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\ref\BuberDiner.Contracts.dll

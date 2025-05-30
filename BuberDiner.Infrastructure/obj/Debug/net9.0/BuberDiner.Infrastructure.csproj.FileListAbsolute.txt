@@ -1,0 +1,17 @@
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDiner.Infrastructure.deps.json
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDiner.Infrastructure.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDiner.Infrastructure.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.AssemblyInfoInputs.cache
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.AssemblyInfo.cs
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\refint\BuberDiner.Infrastructure.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\ref\BuberDiner.Infrastructure.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDiner.Domain.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDinner.Application.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDinner.Application.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDiner.Domain.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.csproj.AssemblyReference.cache
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDin.B12DC09C.Up2Date
