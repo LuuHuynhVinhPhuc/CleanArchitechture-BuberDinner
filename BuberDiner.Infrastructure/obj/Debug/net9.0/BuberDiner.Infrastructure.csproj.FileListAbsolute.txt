@@ -15,3 +15,4 @@ D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\ne
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\bin\Debug\net9.0\BuberDiner.Domain.pdb
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.csproj.AssemblyReference.cache
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDin.B12DC09C.Up2Date
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Infrastructure\obj\Debug\net9.0\BuberDiner.Infrastructure.sourcelink.json

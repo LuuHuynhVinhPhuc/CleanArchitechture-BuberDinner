@@ -31,3 +31,5 @@ D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Api\bin\Debug\net9.0\BuberD
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Api\bin\Debug\net9.0\BuberDinner.Application.pdb
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Api\bin\Debug\net9.0\BuberDiner.Infrastructure.pdb
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Api\bin\Debug\net9.0\BuberDiner.Domain.pdb
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Api\obj\Debug\net9.0\BuberDiner.Api.sourcelink.json
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

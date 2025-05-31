@@ -9,3 +9,4 @@ D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\Bub
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\refint\BuberDiner.Domain.dll
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.pdb
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\ref\BuberDiner.Domain.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Domain\obj\Debug\net9.0\BuberDiner.Domain.sourcelink.json

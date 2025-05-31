@@ -9,3 +9,4 @@ D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\refint\BuberDiner.Contracts.dll
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.pdb
 D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\ref\BuberDiner.Contracts.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDiner.Contracts\obj\Debug\net9.0\BuberDiner.Contracts.sourcelink.json

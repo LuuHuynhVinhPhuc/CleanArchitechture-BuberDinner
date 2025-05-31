@@ -13,3 +13,4 @@ D:\HUFLIT\clean architechture\BuberDinner\BuberDinner.Application\obj\Debug\net9
 D:\HUFLIT\clean architechture\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\refint\BuberDinner.Application.dll
 D:\HUFLIT\clean architechture\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.pdb
 D:\HUFLIT\clean architechture\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\ref\BuberDinner.Application.dll
+D:\HUFLIT\clean architechture\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.sourcelink.json

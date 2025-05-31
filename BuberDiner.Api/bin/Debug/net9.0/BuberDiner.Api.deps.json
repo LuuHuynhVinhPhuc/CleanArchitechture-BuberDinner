@@ -16,6 +16,14 @@
           "BuberDiner.Api.dll": {}
         }
       },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.5": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.525.21509"
+          }
+        }
+      },
       "BuberDiner.Contracts/1.0.0": {
         "runtime": {
           "BuberDiner.Contracts.dll": {
@@ -45,7 +53,8 @@
       },
       "BuberDinner.Application/1.0.0": {
         "dependencies": {
-          "BuberDiner.Domain": "1.0.0"
+          "BuberDiner.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.5"
         },
         "runtime": {
           "BuberDinner.Application.dll": {
@@ -61,6 +70,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjnRtsEAzU73aN6W7vkWy8Phj5t3Xm78HSqgrbh/O4Q9SK/yN73wZVa21QQY6amSLQRQ/M8N+koGnY6PuvKQsw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
     },
     "BuberDiner.Contracts/1.0.0": {
       "type": "project",

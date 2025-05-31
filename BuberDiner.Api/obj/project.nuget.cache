@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hyU87oi1vbM=",
+  "dgSpecHash": "7DRFhGI1KY0=",
   "success": true,
   "projectFilePath": "D:\\HUFLIT\\clean architechture\\BuberDinner\\BuberDiner.Api\\BuberDiner.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vinhp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
