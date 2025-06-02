@@ -20,7 +20,7 @@ public class AuthenticationController : ControllerBase
   {
     var authRes = _authenticationService.Register(request.FirstName, request.LastName, request.Email, request.Password);
 
-    var res = new AuthenticationResponse(authRes.id, authRes.FirstName, authRes.LastName, authRes.Email, authRes.Token
+    var res = new AuthenticationResponse(authRes.user.ID, authRes.user.FirstName, authRes.user.LastName, authRes.user.Email, authRes.Token
     );
     return Ok(res);
   }
@@ -30,7 +30,7 @@ public class AuthenticationController : ControllerBase
   {
     var authRes = _authenticationService.Login(request.Email, request.Password);
 
-    var res = new AuthenticationResponse(authRes.id, authRes.FirstName, authRes.LastName, authRes.Email, authRes.Token
+    var res = new AuthenticationResponse(authRes.user.ID, authRes.user.FirstName, authRes.user.LastName, authRes.user.Email, authRes.Token
     );
 
     return Ok(res);

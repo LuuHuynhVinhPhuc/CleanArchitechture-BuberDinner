@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUFLIT\\clean architechture\\BuberDinner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA185F43-3705-4F6E-A416-0594ABB2DF0A}|BuberDinner.Application\\BuberDinner.Application.csproj|d:\\huflit\\clean architechture\\buberdinner\\buberdinner.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA185F43-3705-4F6E-A416-0594ABB2DF0A}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationResult.cs",
+              "DocumentMoniker": "D:\\HUFLIT\\clean architechture\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "ToolTip": "D:\\HUFLIT\\clean architechture\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:11:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
